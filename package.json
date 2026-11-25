@@ -1,0 +1,1 @@
+{"description":"Watch & Earn Pro — rewards app backend + PWA frontend","engines":{"node":">=20"},"name":"watch-earn-pro","private":true,"scripts":{"start":"node backend/server.js"},"version":"1.0.0"}
